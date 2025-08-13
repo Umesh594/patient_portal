@@ -55,6 +55,6 @@ It allows users to upload, list, download, make favorite and delete documents wi
 # API Calls
 - curl -X POST https://patient-portal-ixd8.onrender.com/documents/upload
 - curl -X GET  https://patient-portal-ixd8.onrender.com/documents
-- curl -X GET  https://patient-portal-ixd8.onrender.com/documents/:id/download 
+- curl -X GET  https://patient-portal-ixd8.onrender.com/documents/:id/download
 - curl -X DELETE https://patient-portal-ixd8.onrender.com/documents/:id
 - curl -X POST https://patient-portal-ixd8.onrender.com/documents/:id/favorite
