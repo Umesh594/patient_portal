@@ -46,7 +46,7 @@ It allows users to upload, list, download, make favorite and delete documents wi
 - PG_PASSWORD
 - PG_PORT
 - Run backend:
-- node server.js - locally
+- node server.js
 # Frontend Setup
 - cd frontend
 - npm install
